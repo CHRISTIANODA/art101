@@ -8,9 +8,15 @@ p {
     text-indent: 30px;
     margin-left: 10px;
 }
+p2 {
+    font-family: "arial";
+    text-indent: 30px;
+    margin-left: 10px;
+}
 
-#tasty_content {
-  background-color: brown;
+
+#content {
+  background-color: #64b9db;
   width: 500px;
   min-height: 300px;
   padding: 10px;
