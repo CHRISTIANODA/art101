@@ -1,20 +1,20 @@
 h1 {
-  color: orange;
-  font-size: 200%:
+    color: teal;
+    font-size: 200%;
 }
 
 p {
-  font-family: "comic sans";
-  text-indent: 20px;
-  margin-left: 20px;
+    font-family: "arial";
+    text-indent: 30px;
+    margin-left: 10px;
 }
 
-#content {
-  background-color: #cccccc;
+#tasty_content {
+  background-color:
   width: 500px;
   min-height: 300px;
   padding: 10px;
   margin: 10px;
-  border: solid 1px #444444;
-  font-size: 20px;
+  border: solid 1px #0D6C38;
+  font-size: 16px;
 }
