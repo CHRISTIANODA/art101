@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    font-size: 200%;
+}
+
+p {
+    font-family: ;
+    text-indent: 30px;
+    margin-left: 10px;
+
+}
+
+
+#content {
+  background-color: #64b9db;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #0D6C38;
+  font-size: 16px;
+}
