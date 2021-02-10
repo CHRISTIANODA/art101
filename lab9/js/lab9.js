@@ -26,4 +26,4 @@ outputEl.appendChild(new2El);
 //Change css attributes
 outputEl.style.color = "orange";
 outputEl.style.marginLeft = "40px";
-document.body.style.color = "blue";
+document.body.style.backgroundColor = "lime";
