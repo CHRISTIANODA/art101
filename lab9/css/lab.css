@@ -1,22 +1,21 @@
 h1 {
   font-size: 200%;
-  color: purple;
+  color: rebeccapurple;
 }
 
-h2 {
-  font-size: 300%;
-  color: green;
-}
-
-.output {
+#output {
   border: solid 5px white;
 }
 
-.main_web {
-  color: black;
+#main_web {
   background-color: chartreuse;
 }
 
+#mainer_web {
+  background-color: purple;
+  border: dotted 5px darkgreen;
+}
+
 p {
-  color: blue;
+  color: maroon;
 }
