@@ -17,8 +17,17 @@ h1 {
   margin-left: 5px;
 }
 
+#borderland {
+  border: solid 6px midnightblue;
+}
+
+.input-output p {
+  color: cornsilk;
+}
+
 #button {
-  color: chocolate;
+  color: seagreen;
+  font-weight: bold;
 }
 
 #output {
