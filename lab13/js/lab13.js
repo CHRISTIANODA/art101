@@ -8,19 +8,20 @@
 //based on multiples
 function fizzBuzz() {
   //loop through numbers
-  for (var num=1; num<=200; num++) {
+for (var num=1; num<=200; num++) {
     //create empty output string
-    var outputStr = "";
+  var outputStr = "";
     //if multiple of 3, add Fizz to outputStr
     if (num % 3 == 0) outputStr += "Fizz";
     //if multiple of 5, add Buzz to outputStr
     if (num % 5 == 0) outputStr += "Buzz";
     //if multiple of 7, add Boom to outputStr
     if (num % 7 == 0) outputStr += "Boom";
+    if (num % 7 == 0) outputStr += "Bang";
     //add extra elements to outputStr if not empty
     if (outputStr) outputStr = " - " + outputStr + "!";
     //append result to output div
-    $("#output").append("<p>" + num + outputStr + "</p>");
+  $("#output").append("<p>" + num + outputStr + "</p>");
   }
 }
 
